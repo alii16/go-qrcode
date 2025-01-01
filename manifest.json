@@ -1,0 +1,11 @@
+{
+    "theme_color": "#1a1a2e",
+    "background_color": "#1a1a2e",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "index.html",
+    "name": "GO-QRCode",
+    "short_name": "GO-QRCode",
+    "description": "Generate as well as Scan QR Codes!"
+  }
